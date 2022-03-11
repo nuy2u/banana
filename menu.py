@@ -1,2 +1,1 @@
-print('main menu')
-print('test')
+print('Menu555')
